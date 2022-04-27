@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain.
 - 👯 I’m looking to collaborate on EVERYTHING
 - 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ^_^
+- ⚡ Fun fact: ^_^. *I love DS BUT I also HATE it!* 
 
 
 
