@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on GNN
+- 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain.
+- 👯 I’m looking to collaborate on EVERYTHING
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: JOKE?
+
+
 [![Frank's GitHub stats](https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
