@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <div> -->
+<div>
 <!--   <div style="float:right; width=80%"> -->
   <div>
     <ul>
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
     </ul>
   </div>
 <!--   <div style="float:left; width=20%"><img src="daze.png" width = 40% height = 40% /></div> -->
-  <div><img src="daze.png" width = 40% height = 40% /></div>
-<!-- </div> -->
+  <div align='center'><img src="daze.png" width = 40% height = 40% /></div>
+</div>
 
-<div align='left'>
+<div align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark" width = 50% height = 50% /></a>
 
   <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width = 50% height = 50% /></a>
