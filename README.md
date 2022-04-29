@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     </ul>
   </div>
 <!--   <div style="float:left; width=20%"><img src="daze.png" width = 40% height = 40% /></div> -->
-  <div align='center'><img src="daze.png" width = 40% height = 40% /></div>
+  <div align='center'><img src="daze.png" width = 50% height = 50% /></div>
 </div>
 
 <div align='center'>
