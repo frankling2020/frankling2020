@@ -35,15 +35,31 @@ Here are some ideas to get you started:
 </div>
 
 <div align='center'>
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark" width = 50% height = 50% /></a>
-
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width = 50% height = 50% /></a>
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width = 50% height = 50% /></a>
+  <table>
+    <tr>
+      <td>
+        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark" width=100% height = 100%/></a>
+      </td>
+      <td>
+        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width=100% height = 100%/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width=100% height = 100%/></a>
+      </td>
+      <td>
+        <div align="center">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" /> 
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-
-
-
-
