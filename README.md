@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-  <img src="daze.png" width = 30% height = 30% />
+  <img src="daze.png" width = 50% height = 50% />
 </div>
 
 #### Information and Status
