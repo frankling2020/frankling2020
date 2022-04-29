@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ^_^. *I love DS BUT I also HATE it!* 
 
-[![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark)]()
+<div align='center'>
+  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width = 50% height = 50% /></a>
+</div>
 
 
 - 🔭 I’m currently a junior-year student in SJTU
