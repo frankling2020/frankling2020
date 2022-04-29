@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--   <div style="float:right; width=80%"> -->
   <div>
     <ul>
-      <li> ⚡ Fun fact: ^_^. *I love DS BUT I also HATE it!*. I’m currently a junior-year student in SJTU. </li>
+      <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
+          <ul>
+            <li><i><b>I love DS BUT I also HATE it!</b></i></li>
+          </ul>
+      </li>
       <li> 🔭 I’m currently working on GNN </li>
       <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
       <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
