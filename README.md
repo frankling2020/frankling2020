@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div>
-<!--   <div style="float:right; width=80%"> -->
-  <div>
+  <div style='float:left; width=20%'>
+    <img src="daze.png" width = 20% height = 20% />
+  </div>
+  <div align='float:right; width=80%'>
     <ul>
       <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
           <ul>
@@ -30,8 +33,6 @@ Here are some ideas to get you started:
       <li> 🤔 I’m looking for help with ... </li>
     </ul>
   </div>
-<!--   <div style="float:left; width=20%"><img src="daze.png" width = 40% height = 40% /></div> -->
-  <div align='center'><img src="daze.png" width = 50% height = 50% /></div>
 </div>
 
 <div align='center'>
@@ -53,11 +54,11 @@ Here are some ideas to get you started:
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" /> 
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /> <br>
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" /> 
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <br>
         </div>
       </td>
     </tr>
