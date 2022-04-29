@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="daze.png" width = 30% height = 30% />
 </div>
 
-### Personal Information and Status
+#### Information and Status
 <div>
   <ul>
     <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### Experience
+#### Experience
 <div align='center'>
   <table>
     <tr>
