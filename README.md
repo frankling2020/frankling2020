@@ -15,24 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align='center'>
+  <img src="daze.png" width = 30% height = 30% />
+</div>
 <div>
-  <div style='float:left; width=20%'>
-    <img src="daze.png" width = 20% height = 20% />
-  </div>
-  <div align='float:right; width=80%'>
-    <ul>
-      <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
-          <ul>
-            <li><i><b>I love DS BUT I also HATE it!</b></i></li>
-          </ul>
-      </li>
-      <li> 🔭 I’m currently working on GNN </li>
-      <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
-      <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
-      <li> 🤔 I’m looking for help with ... </li>
-    </ul>
-  </div>
+  <ul>
+    <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
+        <ul>
+          <li><i><b>I love DS BUT I also HATE it!</b></i></li>
+        </ul>
+    </li>
+    <li> 🔭 I’m currently working on GNN </li>
+    <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
+    <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
+    <li> 🤔 I’m looking for help with ... </li>
+  </ul>
 </div>
 
 <div align='center'>
@@ -42,12 +39,12 @@ Here are some ideas to get you started:
         <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark" width=100% height = 100%/></a>
       </td>
       <td>
-        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width=100% height = 100%/></a>
+        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width=100% height = 100%/></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width=100% height = 100%/></a>
+        <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width=100% height = 100%/></a>
       </td>
       <td>
         <div align="center">
