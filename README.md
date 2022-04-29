@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![Frank's GitHub stats](https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=6&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src="daze.png" width = 50% height = 50% />
 
