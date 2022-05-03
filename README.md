@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Information and Status
 <div>
   <ul>
-    <li> ⚡ Fun fact: I’m currently a junior-year student in SJTU ^_^. 
+    <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
         <ul>
           <li><i><b>I love DS BUT I also HATE it!</b></i></li>
         </ul>
