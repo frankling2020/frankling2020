@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 ### Information and Status  
   
-  
-  
-  
-  
 <table><tr>
   <td valign="center" width="50%">
     <div>
@@ -41,7 +37,7 @@ Here are some ideas to get you started:
       </ul>
     </div>
   </td>
-  <td valign="top" width="50%">
+  <td valign="center" width="50%">
     <div align="center">
       <img src="./greetings.gif" align="center" style="width: 100%" />
     </div>  
