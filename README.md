@@ -20,29 +20,29 @@ Here are some ideas to get you started:
 </div>
 
 ### Information and Status  
-  
-<table><tr>
-  <td valign="center" width="50%">
-    <div>
-      <ul>
-        <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
-            <ul>
-              <li><i><b>I love DS BUT I also HATE it!</b></i></li>
-            </ul>
-        </li>
-        <li> 🔭 I’m currently working on GNN </li>
-        <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
-        <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
-        <li> 🤔 I’m looking for help with ... </li>
-      </ul>
-    </div>
-  </td>
-  <td valign="center" width="50%">
-    <div align="center">
-      <img src="./greetings.gif" align="center" style="width: 100%" />
-    </div>  
-  </td>
-</tr></table>  
+
+<div>
+  <ul>
+    <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
+        <ul>
+          <li><i><b>I love DS BUT I also HATE it!</b></i></li>
+        </ul>
+    </li>
+    <li> 🔭 I’m currently working on GNN </li>
+    <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
+    <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
+    <li> 🤔 I’m looking for help with ... </li>
+  </ul>
+</div>
+
+## Follow ME
+<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/bjava"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/xv6">
+
+<div align="center">
+  <img src="./greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 
 
 ## Experience
