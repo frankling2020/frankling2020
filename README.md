@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Follow ME
-<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/bjava"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/xv6">
+<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/bjava"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo">
 
 <div align="center">
   <img src="./greetings.gif" align="center" style="width: 100%" />
