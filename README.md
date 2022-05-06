@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **frankling2020/frankling2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,23 +19,37 @@ Here are some ideas to get you started:
   <img src="daze.png" width = 50% height = 50% />
 </div>
 
-#### Information and Status
-<div>
-  <ul>
-    <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
-        <ul>
-          <li><i><b>I love DS BUT I also HATE it!</b></i></li>
-        </ul>
-    </li>
-    <li> 🔭 I’m currently working on GNN </li>
-    <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
-    <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
-    <li> 🤔 I’m looking for help with ... </li>
-  </ul>
-</div>
+### Information and Status  
+  
+  
+  
+  
+  
+<table><tr>
+  <td valign="center" width="50%">
+    <div>
+      <ul>
+        <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
+            <ul>
+              <li><i><b>I love DS BUT I also HATE it!</b></i></li>
+            </ul>
+        </li>
+        <li> 🔭 I’m currently working on GNN </li>
+        <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
+        <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
+        <li> 🤔 I’m looking for help with ... </li>
+      </ul>
+    </div>
+  </td>
+  <td valign="top" width="50%">
+    <div align="center">
+      <img src="./greetings.gif" align="center" style="width: 100%" />
+    </div>  
+  </td>
+</tr></table>  
 
 
-#### Experience
+## Experience
 <div align='center'>
   <table>
     <tr>
