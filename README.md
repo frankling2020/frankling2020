@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
   <ul>
-    <li> ⚡ Fun fact: I’m currently a junior-year student ^_^. NO!!! 
+    <li> ⚡ Fun fact: I’m currently a senior-year/first-year master student ^_^. NO!!! 
         <ul>
           <li><i><b>I love DS BUT I also HATE it!</b></i></li>
         </ul>
