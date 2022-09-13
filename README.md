@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <ul>
     <li> ⚡ Fun fact: I’m currently a senior-year/first-year master student ^_^. NO!!! 
         <ul>
-          <li><i><b>I love DS BUT I also HATE it!</b></i></li>
+          <li><i><b>I love DS!</b></i></li>
         </ul>
     </li>
     <li> 🔭 I’m currently working on GNN </li>
