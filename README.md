@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 </div>
 
 ## Follow ME
-<a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo"> <a href='https://hyfrankl.pythonanywhere.com/'><img alt="pythonanywhere"></a>
+<a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> 
+<!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo">  -->
+<a href='https://hyfrankl.pythonanywhere.com/'>pythonanywhere</a>
 
 
 <div align="center">
