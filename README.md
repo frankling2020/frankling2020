@@ -28,7 +28,7 @@ Here are some ideas to get you started:
           <li><i><b>I love DS!</b></i></li>
         </ul>
     </li>
-    <li> 🔭 I’m currently working on GNN </li>
+    <li> 🔭 I’m currently working on Data Mining and Database Web Application </li>
     <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
     <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
     <li> 🤔 I’m looking for help with ... </li>
@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 ## Follow ME
-<a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo">
+<a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo"> <a href='https://hyfrankl.pythonanywhere.com/'><img alt="pythonanywhere"></a>
+
 
 <div align="center">
   <img src="./greetings.gif" align="center" style="width: 100%" />
