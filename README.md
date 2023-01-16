@@ -31,48 +31,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div class="row">
-  <hr class="my-4">
-  <h2>Education</h2>
-  <p class="lead">
-    <!-- create a picture at the left side of a list-->
-    <ul class="no-bullets">
-    <li>
-    <div>
-        <div>
-            <p style="line-height:1em;">
-              <h5><b>University of Michigan</b></h5>
-              Ann Arbor, MI, USA<br>
-              Master of Science in Information Science<br>
-              2022-08-29 - 2024-05-01<br>
-              <!--add an empty line-->
-            </p>
-        </div>
-        <div style="float: right">
-          <img width="150" height="150" src="https://github.com/frankling2020/frankling2020.github.io/blob/main/images/UM_logo.png" class="d-block mx-auto rounded-circle">
-        </div>
-    </div>
-    </li>
-    <li>
-	  <div>
-        <div>
-              <p style="line-height:1em;">
-                <h5><b>Shanghai Jiaotong University</b></h5>
-                Shanghai, China<br>
-                Bachelor of Science in Electrical and Computer Engineering<br>
-                2019-09-01 - 2023-08-01<br>
-                <!--add an empty line-->
-              </p>
-        </div>
-        <div style="float: right">
-          <img width="150" height="150" src="https://github.com/frankling2020/frankling2020.github.io/blob/main/images/SJTU_logo.png" class="d-block mx-auto rounded-circle">
-        </div>
-    </div>
-    </li>
-    </ul>
-  </p>
-</div>
-
 
 ## Experience
 See [my portfolio](https://frankling2020.github.io)
