@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 
 ## Experience
-See [Detailed Project Experience](/archives) and [Resume](/pdf/resume.pdf)
+See [my portfolio](https://frankling2020.github.io)
 
 **Supplement**
 - [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
