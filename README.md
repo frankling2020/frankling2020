@@ -15,30 +15,77 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### About Me
 <div align='center'>
-  <img src="daze.png" width = 50% height = 50% />
+  <img src="daze.png" width = 36% height = 36% />
 </div>
-
-### Information and Status  
-
 <div>
   <ul>
-    <li> ⚡ Fun fact: I’m currently a senior-year/first-year master student ^_^. NO!!! 
-        <ul>
-          <li><i><b>I love DS!</b></i></li>
-        </ul>
-    </li>
-    <li> 🔭 I’m currently working on Data Mining and Database Web Application </li>
-    <li> 🌱 I’m currently learning Computer Vision, Operating & Distributed System, and Block Chain. </li>
-    <li> 👯 I’m looking to collaborate on EVERYTHING. </li>
+    <li> ⚡ <b>Fun fact</b>: I’m currently a senior-year student @UM-SJTU Joint Institute/a first-year master student @UMSI ^_^. </li>
+    <li> 🔭 <b>Area of Interest</b>: Data Science, Computer Vision, Web Design, Software Enigneering </li>
+    <li> 🌱 <b>Status</b>: I’m currently learning Natural Language Processing and Operating & Distributed System. </li>
+    <li> 👯 <b>Attitude</b>: I’m looking forward to collaboration on EVERYTHING. </li>
     <li> 🤔 I’m looking for help with ... </li>
   </ul>
 </div>
 
+
+<div class="row">
+  <hr class="my-4">
+  <h2>Education</h2>
+  <p class="lead">
+    <!-- create a picture at the left side of a list-->
+    <ul class="no-bullets">
+    <li>
+    <div>
+        <div>
+            <p style="line-height:1em;">
+              <h5><b>University of Michigan</b></h5>
+              Ann Arbor, MI, USA<br>
+              Master of Science in Information Science<br>
+              2022-08-29 - 2024-05-01<br>
+              <!--add an empty line-->
+            </p>
+        </div>
+        <div style="float: right">
+          <img width="150" height="150" src="https://github.com/frankling2020/frankling2020.github.io/blob/main/images/UM_logo.png" class="d-block mx-auto rounded-circle">
+        </div>
+    </div>
+    </li>
+    <li>
+	  <div>
+        <div>
+              <p style="line-height:1em;">
+                <h5><b>Shanghai Jiaotong University</b></h5>
+                Shanghai, China<br>
+                Bachelor of Science in Electrical and Computer Engineering<br>
+                2019-09-01 - 2023-08-01<br>
+                <!--add an empty line-->
+              </p>
+        </div>
+        <div style="float: right">
+          <img width="150" height="150" src="https://github.com/frankling2020/frankling2020.github.io/blob/main/images/SJTU_logo.png" class="d-block mx-auto rounded-circle">
+        </div>
+    </div>
+    </li>
+    </ul>
+  </p>
+</div>
+
+
+## Experience
+See [Detailed Project Experience](/archives) and [Resume](/pdf/resume.pdf)
+
+**Supplement**
+- [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
+- [Word Count Analysis of CORD-19 Dataset](https://github.com/frankling2020/UMSI-Projects/blob/main/si618prj/si618-project-part-1-hyfrankl.pdf)
+- [Assignment 3 in EECS 498 Intro. to Computer Vision](https://github.com/frankling2020/UMSI-Projects/tree/main/eecs498-CV/A3)
+- [xv6 OS labs (ongoing...)](https://github.com/frankling2020/xv62022)
+
 ## Follow ME
 <a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> 
-<!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo">  -->
-
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo"> 
 
 
 <div align="center">
@@ -46,9 +93,7 @@ Here are some ideas to get you started:
 </div>  
 
 
-
-
-## Experience
+## Status
 <div align='center'>
   <table>
     <tr>
