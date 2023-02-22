@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## Experience
-See [my portfolio](https://frankling2020.github.io)
+See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
 
 **Supplement**
 - [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
