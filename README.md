@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
 
 **Supplement**
+- Writing some [novels](https://mp.weixin.qq.com/s/rHNrLAv-SFuK8vgl9xCzHw)
 - [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
 - [Word Count Analysis of CORD-19 Dataset](https://github.com/frankling2020/UMSI-Projects/blob/main/si618prj/si618-project-part-1-hyfrankl.pdf)
 - [Assignment 3 in EECS 498 Intro. to Computer Vision](https://github.com/frankling2020/UMSI-Projects/tree/main/eecs498-CV/A3)
