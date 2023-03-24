@@ -41,6 +41,7 @@ See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kagg
     * [Part 2](https://mp.weixin.qq.com/s/L3HJPIYl88nDfrr_iJJHzg)
     * [Part 3](https://mp.weixin.qq.com/s/sp-FUQnnD-edcTzEQb83yg)
     * [Part 4](https://mp.weixin.qq.com/s/ZCnWxd5OQxf77zNUPvlxfQ)
+- [ChatGPT-based Summary](https://frankling2020.github.io/react-chatgpt/)
 - [Altair Visualization with Streamlit](https://hyfrankl-si649-individual-project.streamlit.app/)
 - [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
 - [Word Count Analysis of CORD-19 Dataset](https://github.com/frankling2020/UMSI-Projects/blob/main/si618prj/si618-project-part-1-hyfrankl.pdf)
