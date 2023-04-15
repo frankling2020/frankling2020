@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
 
 **Supplement**
+- Organization: [MGTD4ChatGPT](https://github.com/MGTD4ChatGPT) and [Living-EvalSystem](https://github.com/LR-Evalsystem)
 - Wrote the novel ***The Scorching Sun***
-    * [Part 1](https://mp.weixin.qq.com/s/rHNrLAv-SFuK8vgl9xCzHw)
-    * [Part 2](https://mp.weixin.qq.com/s/L3HJPIYl88nDfrr_iJJHzg)
-    * [Part 3](https://mp.weixin.qq.com/s/sp-FUQnnD-edcTzEQb83yg)
-    * [Part 4](https://mp.weixin.qq.com/s/ZCnWxd5OQxf77zNUPvlxfQ)
+    * [Part 1](https://mp.weixin.qq.com/s/rHNrLAv-SFuK8vgl9xCzHw), [Part 2](https://mp.weixin.qq.com/s/L3HJPIYl88nDfrr_iJJHzg), [Part 3](https://mp.weixin.qq.com/s/sp-FUQnnD-edcTzEQb83yg), and [Part 4](https://mp.weixin.qq.com/s/ZCnWxd5OQxf77zNUPvlxfQ)
 - [ChatGPT-based Summary](https://frankling2020.github.io/react-chatgpt/)
 - [Altair Visualization with Streamlit](https://hyfrankl-si649-individual-project.streamlit.app/)
 - [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
