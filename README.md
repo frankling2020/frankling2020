@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### About Me
 <div align='center'>
   <img src="daze.png" width = 36% height = 36% />
@@ -30,10 +29,9 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-
-
 ## Experience
 See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
+
 
 **Supplement**
 - Organization: [MGTD4ChatGPT](https://github.com/MGTD4ChatGPT) and [Living-EvalSystem](https://github.com/LR-Evalsystem)
