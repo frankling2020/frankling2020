@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 ## Experience
 See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
 
-<a href="https://clustrmaps.com/site/1bujf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=eEBExyqiZgc8xPI7VBGj7e6Z_PW4ygN37kaU59B-O64&cl=ffffff" /></a>
+<div align=center>
+<a href="https://clustrmaps.com/site/1bujf"  title="Visit tracker">
+  <img src="https://www.clustrmaps.com/map_v2.png?d=eEBExyqiZgc8xPI7VBGj7e6Z_PW4ygN37kaU59B-O64&cl=ffffff"/>
+</a>
+</div>
 
 
 **Supplement**
