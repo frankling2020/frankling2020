@@ -38,8 +38,6 @@ See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kagg
 </a>
 </div> -->
 
-<div width='320' height='36' scrolling='no' frameborder='0' allowTransparency='true' src='http://www.showaddress.net/ShowIP.asp?size=12&lineht=18&color=00FFFF&bgcolor=000000&type=3'></div>
-
 
 **Supplement**
 - Organization: [MGTD4ChatGPT](https://github.com/MGTD4ChatGPT) and [Living-EvalSystem](https://github.com/LR-Evalsystem)
