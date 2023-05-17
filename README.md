@@ -67,14 +67,16 @@ See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kagg
       <td valign="center">
         <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api?username=frankling2020&show_icons=true&theme=onedark" width=100% height = 100%/></a>
       </td>
+    </tr>
+    <tr>
       <td valign="center">
         <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=frankling2020&langs_count=10&layout=compact&theme=onedark" width=100% height = 100%/></a>
       </td>
     </tr>
     <tr>
-      <td valign="center">
+<!--       <td valign="center">
         <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankling2020&layout=compact&theme=onedark" width=100% height = 100%/></a>
-      </td>
+      </td> -->
       <td valign="center">
         <div align="center">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
