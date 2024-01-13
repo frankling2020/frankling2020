@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Experience
-See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021)
+See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021) or [huggingface](https://huggingface.co/hyfrankl)
 
 <!-- <div align=center>
 <a href="https://clustrmaps.com/site/1bujf"  title="Visit tracker">
