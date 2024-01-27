@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋 <img src="https://profile-counter.glitch.me/frankling2020/count.svg" />
 
 <!--
 **frankling2020/frankling2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Static Badge](https://img.shields.io/badge/Start_from-2024-blue)
+<a href='https://huggingface.co/hyfrankl'><img alt="Huggingface" src="https://img.shields.io/badge/Huggingface-hyfrankl-red"></a> 
+![GitHub followers](https://img.shields.io/github/followers/frankling2020)
+
+
+<div align="center">
+  <img src="./greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 
 ### About Me
 <div align='center'>
@@ -49,15 +59,6 @@ See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kagg
 - [Word Count Analysis of CORD-19 Dataset](https://github.com/frankling2020/UMSI-Projects/blob/main/si618prj/si618-project-part-1-hyfrankl.pdf)
 - [Assignment 3 in EECS 498 Intro. to Computer Vision](https://github.com/frankling2020/UMSI-Projects/tree/main/eecs498-CV/A3)
 - [xv6 OS labs (ongoing...)](https://github.com/frankling2020/xv62022)
-
-## Follow ME
-<a href='https://hub.docker.com/r/frankling2021/shadrik'><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/frankling2021/shadrik"></a> 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frankling2020/Self-learn-repo"> 
-
-
-<div align="center">
-  <img src="./greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 ## Status
