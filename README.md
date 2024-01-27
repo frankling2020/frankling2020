@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/Start_from-2024-blue)
-<a href='https://huggingface.co/hyfrankl'><img alt="Huggingface" src="https://img.shields.io/badge/Huggingface-hyfrankl-red"></a> 
+![Static Badge](https://img.shields.io/badge/New_start-2024-blue)
+<a href="https://frankling2020.github.io"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-frankling2020-brown"></a>
+<a href="https://hub.docker.com/u/frankling2021"><img alt="dockerhub" src="https://img.shields.io/badge/Docker-frankling2021-yellow"></a>
+
+
 ![GitHub followers](https://img.shields.io/github/followers/frankling2020)
+<a href='https://huggingface.co/hyfrankl'><img alt="Huggingface" src="https://img.shields.io/badge/Huggingface-hyfrankl-orange"></a>
+<a href="https://www.kaggle.com/frankling2021"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-frankling2021-red"></a>
 
 
 <div align="center">
@@ -40,8 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Experience
-See [my portfolio](https://frankling2020.github.io) or [kaggle](https://www.kaggle.com/frankling2021) or [dockerhub](https://hub.docker.com/u/frankling2021) or [huggingface](https://huggingface.co/hyfrankl)
-
 <!-- <div align=center>
 <a href="https://clustrmaps.com/site/1bujf"  title="Visit tracker">
   <img src="https://www.clustrmaps.com/map_v2.png?d=eEBExyqiZgc8xPI7VBGj7e6Z_PW4ygN37kaU59B-O64&cl=ffffff"/>
