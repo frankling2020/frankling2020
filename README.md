@@ -1,5 +1,10 @@
 # Hi 👋 <img src="https://profile-counter.glitch.me/frankling2020/count.svg" />
 
+<div align="center">
+  <img src="./greetings.gif" align="center" style="width: 80%" />
+</div>  
+
+
 <!--
 **frankling2020/frankling2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,22 +20,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+### About Me
+---
 ![Static Badge](https://img.shields.io/badge/New_start-2024-blue)
 <a href="https://frankling2020.github.io"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-frankling2020-brown"></a>
 <a href="https://hub.docker.com/u/frankling2021"><img alt="dockerhub" src="https://img.shields.io/badge/Docker-frankling2021-yellow"></a>
-
 
 ![GitHub followers](https://img.shields.io/github/followers/frankling2020)
 <a href='https://huggingface.co/hyfrankl'><img alt="Huggingface" src="https://img.shields.io/badge/Huggingface-hyfrankl-orange"></a>
 <a href="https://www.kaggle.com/frankling2021"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-frankling2021-red"></a>
 
 
-<div align="center">
-  <img src="./greetings.gif" align="center" style="width: 100%" />
-</div>  
 
-
-### About Me
 <div align='center'>
   <img src="daze.png" width = 36% height = 36% />
 </div>
@@ -53,15 +56,20 @@ Here are some ideas to get you started:
 
 
 **Supplement**
-- Organization: [MGTD4ChatGPT](https://github.com/MGTD4ChatGPT) and [Living-EvalSystem](https://github.com/LR-Evalsystem)
+- **Ongoing...**
+  - [ ] KAIST-CS431
+  - [ ] CSAPP   
+
+- Machine-generated text detection for ChatGPT: [MGTD4ChatGPT](https://github.com/MGTD4ChatGPT)
+- New York Living EvalSystem: [Living-EvalSystem](https://github.com/LR-Evalsystem)
+- [Movie IR System](https://github.com/frankling2020/MovieIRSystem)
+- [ChatGPT-based Summary](https://frankling2020.github.io/react-chatgpt/)
+- [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
 - Wrote the novel ***The Scorching Sun***
     * [Part 1](https://mp.weixin.qq.com/s/rHNrLAv-SFuK8vgl9xCzHw), [Part 2](https://mp.weixin.qq.com/s/L3HJPIYl88nDfrr_iJJHzg), [Part 3](https://mp.weixin.qq.com/s/sp-FUQnnD-edcTzEQb83yg), and [Part 4](https://mp.weixin.qq.com/s/ZCnWxd5OQxf77zNUPvlxfQ)
-- [ChatGPT-based Summary](https://frankling2020.github.io/react-chatgpt/)
-- [Altair Visualization with Streamlit](https://hyfrankl-si649-individual-project.streamlit.app/)
-- [Pipeline CPU with Verilog](https://github.com/frankling2020/Some-Projects-Labs/blob/main/riscv_pipedline_cpu.v)
-- [Word Count Analysis of CORD-19 Dataset](https://github.com/frankling2020/UMSI-Projects/blob/main/si618prj/si618-project-part-1-hyfrankl.pdf)
-- [Assignment 3 in EECS 498 Intro. to Computer Vision](https://github.com/frankling2020/UMSI-Projects/tree/main/eecs498-CV/A3)
-- [xv6 OS labs (ongoing...)](https://github.com/frankling2020/xv62022)
+
+
+
 
 
 ## Status
@@ -94,3 +102,4 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
+
